@@ -6,7 +6,9 @@
       "category": "Web Application",
       "techStack": ["Google Apps Script", "HTML5", "CSS3", "JavaScript"],
       "description": "Portal Lelang Koperasi – Sistem Lelang Internal Koperasi. Aplikasi web mendigitalisasi proses lelang aset koperasi secara transparan dan real-time dengan rekap pemenang otomatis.",
-      "mockup": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=800&q=80"
+      "mockup": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=800&q=80",
+      "screenshot": "/screenshots/portal-lelang.jpg"
+
     },
     {
       "id": 2,
@@ -14,7 +16,8 @@
       "category": "Web Application",
       "techStack": ["Vue.js", ".NET (C#)", "SQL Server", "Tailwind CSS"],
       "description": "HC Benefit Information Portal. Platform internal korporat berskala besar untuk mengelola informasi kompensasi, benefit, dan jaminan kesehatan karyawan secara transparan.",
-      "mockup": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=800&q=80"
+      "mockup": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=800&q=80",
+      "screenshot": "/screenshots/employee-benefit.jpg"
     },
     {
       "id": 3,
@@ -22,7 +25,8 @@
       "category": "Web Application",
       "techStack": ["Google Apps Script", "HTML5", "CSS3", "JavaScript"],
       "description": "QuickCoupon – Sistem Kupon & Vouchering QR. Solusi paperless untuk distribusi kupon makan/belanja acara internal. Validasi scan via web camera panitia.",
-      "mockup": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?auto=format&fit=crop&w=800&q=80"
+      "mockup": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?auto=format&fit=crop&w=800&q=80",
+      "screenshot": "/screenshots/kupon-qr.jpg"
     },
     {
       "id": 4,
@@ -30,7 +34,8 @@
       "category": "Web App / Toko Online",
       "techStack": ["Vue.js", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
       "description": "Agen Rumah – Platform Listing & Pemasaran Properti Bagi Agen Properti. Aplikasi SaaS agensi properti yang dilengkapi dengan filter lokasi dinamis.",
-      "mockup": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=800&q=80"
+      "mockup": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=800&q=80",
+      "screenshot": "/screenshots/no-preview.jpg"
     },
     {
       "id": 5,
@@ -38,7 +43,8 @@
       "category": "Toko Online",
       "techStack": ["Vue.js", "Google Sheets API", "Tailwind CSS", "Vercel"],
       "description": "Coffeeshop Gue – Menu Digital Interaktif via QR Code. Memungkinkan pelanggan memesan menu langsung dari meja, terintegrasi real-time dengan dapur.",
-      "mockup": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+      "mockup": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
+      "screenshot": "/screenshots/digital-menu.jpg"
     },
     {
       "id": 6,
@@ -46,7 +52,8 @@
       "category": "Web Application",
       "techStack": ["Vue.js", "Supabase", "Tailwind CSS"],
       "description": "Bengkel Andalan – Sistem Manajemen & Booking Servis Bengkel. Layanan reservasi servis mandiri bagi pelanggan serta pemantauan tugas mekanik secara live.",
-      "mockup": "https://images.unsplash.com/photo-1652987086659-2662433aed85?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "mockup": "https://images.unsplash.com/photo-1652987086659-2662433aed85?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "screenshot": "/screenshots/website-bengkel.jpg"
     },
     {
       "id": 7,
@@ -54,7 +61,8 @@
       "category": "Company Profile",
       "techStack": ["Vue.js", "Tailwind CSS"],
       "description": "@DesainerUMKM – Website Portofolio untuk leverage trust customer @DesainerUMKM.",
-      "mockup": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80"
+      "mockup": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
+      "screenshot": "/screenshots/company-profile.jpg"
     }
   ],
   "testimonials": [
